@@ -1,4 +1,4 @@
-# MyApp2l
+# MyApp2
 Steps to run on devices:<br>
 
 -Chone this repository <br>
